@@ -7,8 +7,6 @@
     "react": "^16.8.6"
   },
   "dependencies": {
-    "react-transition-group": "^4.2.1",
-    "webpack": "^4.36.1"
   },
   "scripts": {
     "test": "jest",
