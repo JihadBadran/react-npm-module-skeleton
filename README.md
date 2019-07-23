@@ -16,3 +16,7 @@ quick starter to start for new React npm module with needed testing tools
 - Run Storybook: `npm run storybook`
 - Build: `npm run build`
 - publish to NPM (after you login to npm through terminal): `npm publish`
+
+# Contributors
+if you see something wrong or something that can be enhanced, feel free to create an issue.
+and if you are interested in being a contributer, that would be amazing :)
